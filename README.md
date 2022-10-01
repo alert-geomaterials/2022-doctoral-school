@@ -1,5 +1,5 @@
 # 2022-doctoral-school
-Code used in the 2022 Alert Geomaterials doctoral school on Advanced Experimental Imaging
+Code used in the 2022 Alert Geomaterials doctoral school on Advanced Experimental Imaging. [The main website for the school is here](https://alertgeomaterials.eu/presentations-of-the-alert-doctoral-school-2022/).
 
 Each lesson is contained in a set of jupyter notebooks.
 
