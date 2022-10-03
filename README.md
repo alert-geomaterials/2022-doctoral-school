@@ -8,3 +8,8 @@ Each lesson is contained in a set of jupyter notebooks.
 - [Beginner PTV](notebooks/Beginner_PTV.ipynb)
 - [Begineer PIV](notebooks/Beginner_PIV.ipynb)
 - [Photoelasticity code](notebooks/ALERTPhotoelasticity 220929_v1.ipynb)
+
+## 3D imaging
+- [RIMS] 
+- [3D tomography](notebooks/3D_tomography.ipynb)
+- [3D analysis]
