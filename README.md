@@ -12,4 +12,4 @@ Each lesson is contained in a set of jupyter notebooks.
 ## 3D imaging
 - [RIMS] 
 - [3D tomography](notebooks/3D_tomography.ipynb)
-- [3D analysis]
+- [3D analysis](notebooks/3D_analysis.ipynb)
