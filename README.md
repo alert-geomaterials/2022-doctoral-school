@@ -10,6 +10,6 @@ Each lesson is contained in a set of jupyter notebooks.
 - [Photoelasticity code](notebooks/ALERTPhotoelasticity_220929_v1.ipynb)
 
 ## 3D imaging
-- [RIMS] 
+- [RIMS](notebooks/RIMS_demo_Image_analysis.ipynb)
 - [3D tomography](notebooks/3D_tomography.ipynb)
 - [3D analysis](notebooks/3D_analysis.ipynb)
